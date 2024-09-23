@@ -1,0 +1,788 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+  .section2 {
+    .container {
+      /* background-color: red; */
+      padding: 40px 50px;
+
+      .elem {
+        width: 46%;
+        height: 47%;
+
+        h2 {
+          font-size: 1.4em !important;
+        }
+
+        h4 i {
+          padding: 3px !important;
+          font-size: 20px !important;
+        }
+
+        img {
+          height: 80% !important;
+        }
+      }
+    }
+  }
+}
+
+/* Mid size Devices */
+
+@media (min-width: 768px) and (max-width: 992px) {
+  nav {
+    padding: 15px 40px;
+    .part2 {
+      gap: 40px;
+    }
+    button {
+      padding: 5px 15px;
+      font-size: 1.1vw;
+    }
+  }
+  .section2 {
+    .container {
+      /* background-color: red; */
+      padding: 40px 40px;
+
+      .elem {
+        width: 46%;
+        height: 47%;
+
+        h2 {
+          font-size: 1.4em !important;
+        }
+
+        h4 i {
+          padding: 3px !important;
+          font-size: 20px !important;
+        }
+
+        img {
+          height: 80% !important;
+        }
+      }
+    }
+  }
+
+  .center {
+    /* background-color: red; */
+    padding: 45px 40px;
+    height: 67%;
+    align-items: center;
+    .center-left {
+      padding-top: 10px;
+
+      h1 {
+        font-size: 4.1vw;
+      }
+
+      p {
+        font-size: 1.3vw;
+        width: 90%;
+      }
+
+      button {
+        font-size: 1.5vw;
+      }
+    }
+
+    .center-right {
+      img {
+        height: 80%;
+      }
+    }
+  }
+
+  .section1-btm {
+    padding: 25px 40px;
+
+    img {
+      height: 20px;
+    }
+
+    .sb-img {
+      height: 70px;
+    }
+
+    .notion {
+      height: 30px;
+    }
+  }
+
+  .section2,
+  .section3 {
+    .services {
+      padding: 25px 40px;
+      /* margin-top: 20px; */
+      p {
+        width: 70%;
+      }
+    }
+  }
+
+  .section2 {
+    .container {
+      /* background-color: red; */
+      padding: 40px 40px;
+
+      .elem {
+        width: 48%;
+        height: 47%;
+
+        h2 {
+          font-size: 1.2em !important;
+        }
+
+        h4 i {
+          padding: 3px !important;
+          font-size: 20px !important;
+        }
+
+        img {
+          height: 90% !important;
+        }
+      }
+    }
+  }
+
+  /* Section3 */
+
+  .section3 {
+    /* margin-top: -20px !important; */
+    .sec3-top {
+      .center2 {
+        padding: 0px 40px;
+
+        .center2-left {
+          height: 100%;
+          width: 45%;
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+
+          h1 {
+            font-size: 2vw;
+          }
+
+          p {
+            font-size: 1vw;
+          }
+
+          button {
+            max-width: 49%;
+            padding: 15px 15px;
+          }
+        }
+      }
+    }
+  }
+
+  .case-study {
+    p {
+      width: 60% !important;
+    }
+  }
+
+  .case-study-btm {
+    margin: 20px 40px;
+    padding: 35px 25px 35px 45px;
+    /* box-sizing: border-box; */
+    width: 70% !important;
+
+    p {
+      font-size: 1vw;
+    }
+
+    h5 {
+      font-size: 0.9vw;
+    }
+    .cs-1 {
+      padding-left: 20px;
+      p {
+        width: 80% !important;
+      }
+    }
+    .cs-3 {
+      padding-left: 30px;
+      border-right: 2px solid white;
+
+      /* width: 51%; */
+      p {
+        width: 90% !important;
+      }
+    }
+
+    .cs-2 {
+      border-left: 2px solid white;
+      border-right: 2px solid white;
+      padding-left: 30px !important;
+      /* width: 50%; */
+      /* width: 60%; */
+
+      p {
+        width: 90% !important;
+      }
+    }
+  }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+  nav {
+    padding: 15px 20px;
+    .part2 {
+      gap: 30px;
+    }
+    button {
+      padding: 3px 10px;
+      font-size: 1.1vw;
+    }
+  }
+
+  .center {
+    padding: 25px 20px;
+    height: 70%;
+    .center-left {
+      h1 {
+        font-size: 2.8vw;
+      }
+
+      p {
+        margin-top: 10px;
+        margin-bottom: 10px;
+
+        button {
+          padding: 8px 13px;
+        }
+      }
+
+      .center-right {
+        height: 100%;
+        width: 55%;
+
+        img {
+          height: 100%;
+          width: 100%;
+        }
+      }
+    }
+  }
+
+  .section1-btm {
+    padding: 0px 20px;
+    /* margin-top: 120px; */
+
+    img {
+      height: 15px;
+    }
+
+    .sb-img {
+      height: 50px;
+    }
+
+    .notion {
+      height: 25px;
+    }
+  }
+
+  .section1 {
+    height: 35%;
+  }
+
+  /* Section 2 */
+  .section2,
+  .section3 {
+    .services {
+      padding: 25px 20px;
+      /* margin-top: 20px; */
+      p {
+        width: 100%;
+        font-size: 2vw;
+      }
+    }
+  }
+
+  .section2 {
+    height: 55%;
+
+    .container {
+      padding: 40px 20px;
+      height: 83%;
+
+      .elem {
+        width: 48%;
+        height: 45%;
+
+        h2 {
+          font-size: 0.7em !important;
+        }
+
+        h4 {
+          font-size: 0.7em !important;
+        }
+
+        h4 i {
+          padding: 3px !important;
+          font-size: 0.9em !important;
+        }
+
+        img {
+          height: 80% !important;
+        }
+      }
+    }
+  }
+
+  .e2 {
+    margin-top: 40px !important;
+  }
+
+  .section3 {
+    padding: 0px 0px !important;
+    height: 90%;
+  }
+
+  .sec3-top {
+    .center2 {
+      padding: 0px 40px !important;
+      .center2-left {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        /* align-items: end; */
+
+        h1 {
+          font-size: 2.5vw !important;
+        }
+
+        p {
+          font-size: 1.5vw !important;
+          width: 100% !important;
+        }
+
+        button {
+          font-size: 1.3vw !important;
+
+          max-width: 65%;
+          padding: 10px 15px !important;
+        }
+      }
+    }
+  }
+
+  .section3 {
+    & .sec3-top {
+      & .center2 {
+        & .center2-right {
+          & img {
+            width: 70% !important;
+            height: 271px !important;
+          }
+        }
+      }
+    }
+  }
+
+  .case-study {
+    p {
+      width: 60% !important;
+    }
+  }
+
+  .case-study-btm {
+    margin: 20px 40px;
+    padding: 35px 25px 35px 45px;
+    box-sizing: border-box;
+    width: 60% !important;
+
+    p {
+      font-size: 1.5vw;
+    }
+
+    h5 {
+      font-size: 1.8vw;
+    }
+    .cs-1 {
+      padding-left: 0px;
+      p {
+        width: 90% !important;
+      }
+    }
+    .cs-3 {
+      padding-left: 0px;
+      border-right: 0px solid white;
+
+      /* width: 51%; */
+      p {
+        width: 90% !important;
+      }
+    }
+
+    .cs-2 {
+      border-left: 0px solid white;
+      border-right: 0px solid white;
+      padding-left: 0px !important;
+
+      p {
+        width: 90% !important;
+      }
+    }
+  }
+}
+
+@media (max-width: 834px) {
+  .hideOnMobile {
+    display: none;
+  }
+
+  .menu-button {
+    display: block;
+  }
+}
+
+@media (max-width: 576px) {
+  .section1 {
+    height: 100vh;
+  }
+  .sidebar {
+    width: 100%;
+  }
+
+  nav {
+    padding: 25px 20px;
+    & h1 {
+      font-size: 6vw;
+    }
+    & h4 {
+      font-size: 5vw;
+    }
+  }
+
+  .center {
+    padding: 45px 20px 0px 20px;
+    height: 75%;
+
+    flex-direction: column;
+    align-items: center !important;
+    .center-left {
+      width: 100%;
+      h1 {
+        font-size: 6.8vw;
+      }
+
+      p {
+        font-size: 3vw;
+        width: 100%;
+        margin-top: 30px;
+        margin-bottom: 10px;
+      }
+      button {
+        font-size: 3vw !important;
+        margin-top: 20px;
+
+        padding: 15px 23px;
+        width: 50%;
+      }
+    }
+  }
+
+  .center-right {
+    height: 100%;
+    width: 100% !important;
+    padding-left: 0px !important;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    img {
+      padding-right: 40px !important;
+    }
+  }
+
+  .section1-btm {
+    padding: 10px 20px;
+    /* margin-top: 120px; */
+
+    img {
+      height: 10px;
+    }
+
+    .sb-img {
+      height: 40px;
+    }
+
+    .notion {
+      height: 20px;
+    }
+  }
+
+  .section2 {
+    height: 100vh;
+    .services {
+      padding: 5px 20px !important;
+
+      margin-top: 0px;
+
+      h3 {
+        font-size: 4.5vw;
+      }
+
+      p {
+        width: 100%;
+
+        font-size: 2.5vw;
+      }
+    }
+
+    .container {
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      /* gap: 40px; */
+      justify-content: space-between;
+      padding: 40px 20px;
+      flex-wrap: nowrap;
+      .elem {
+        height: 42%;
+        width: 100%;
+        border: 3px solid black;
+        border-radius: 45px;
+        box-shadow: 0 8px 0 black;
+        padding: 30px;
+        display: flex;
+
+        .elem-left {
+          height: 100%;
+          width: 50%;
+          display: flex;
+          align-items: flex-start;
+          flex-direction: column;
+
+          h2 {
+            font-size: 1.2em !important;
+          }
+
+          h4 {
+            gap: 2vw;
+
+            i {
+              padding: 3px;
+
+              font-size: 20px;
+            }
+          }
+        }
+
+        .elem-right {
+          height: 80%;
+          width: 50%;
+
+          img {
+            height: 100%;
+          }
+        }
+      }
+
+      .e2 {
+        margin-top: 40px;
+      }
+    }
+
+    .el-1 {
+      margin-bottom: 40px;
+    }
+  }
+
+
+  
+/* Section3 */
+
+.section3 {
+  margin-top: 380px;
+  padding: 0px 0px !important;
+
+  .sec3-top {
+  padding: 0px 20px !important;
+
+    margin-top: 0px;
+    height: 48% !important;
+   
+
+    .center2 {
+      padding: 0px 0px;
+      height: 67% !important;
+      width: 100%;
+      
+    flex-direction: column;
+
+      .center2-left {
+        width: 100%;
+
+        h1 {
+          font-size: 5.5vw;
+        }
+
+        p {
+          font-size: 3vw;
+        
+          width: 100%;
+        }
+
+        button {
+         
+          font-size: 3vw;
+
+          
+          padding: 15px 25px;
+       
+        }
+        }
+      }
+
+      .center2-right {
+        width: 100%;
+       
+margin-top: 50px;
+     
+      }
+
+    
+  
+    }
+  }
+
+  .section3 {
+    & .sec3-top {
+      & .center2 {
+        & .center2-right {
+          & img {
+            /* width: 100% !important; */
+            width: 300px !important;
+            height: 360px !important;
+          }
+        }
+      }
+    }
+  }
+
+
+  
+.case-study {
+ margin-top: 200px !important;
+ padding: 0px 20px !important;
+  padding-bottom: 30px !important;
+  h3 {
+    font-size: 4.5vw !important;
+    width: 45%;
+  }
+
+  p {
+    font-size: 3vw;
+    width: 100% !important;
+  }
+}
+
+
+.case-study-btm {
+  margin: 20px 40px;
+  margin-left: 65px;
+  margin-bottom: 100px !important;
+  padding: 35px 45px 35px 45px !important;
+  box-sizing: border-box;
+  width: 65% !important;
+
+  p {
+    font-size: 3vw;
+  }
+
+  h5 {
+    font-size: 3.4vw;
+  }
+  .cs-1 {
+    padding-left: 0px;
+    p {
+      width: 90% !important;
+    }
+  }
+  .cs-3 {
+    padding-left: 0px;
+    border-right: 0px solid white;
+
+    /* width: 51%; */
+    p {
+      width: 90% !important;
+    }
+  }
+
+  .cs-2 {
+    border-left: 0px solid white;
+    border-right: 0px solid white;
+    padding-left: 0px !important;
+
+    p {
+      width: 90% !important;
+    }
+  }
+}
+}
+
+
+/* Tabs */
+@media (min-width: 600px) and (max-width: 835px) {
+
+  nav {
+    padding-top: 30px;
+    & h1 {
+      font-size: 4.5vw;
+    }
+    & h4 {
+      font-size: 3.5vw;
+    }
+  }
+
+  
+  .center {
+    /* padding: 45px 20px 0px 20px; */
+    /* height: 75%; */
+
+    flex-direction: column;
+    align-items: center !important;
+    /* gap: 50px; */
+    .center-left {
+      width: 100%;
+      h1 {
+        font-size: 6.8vw;
+      }
+
+      p {
+        font-size: 3vw;
+        width: 100%;
+        margin-top: 30px;
+        margin-bottom: 10px;
+      }
+      button {
+        font-size: 3vw !important;
+        margin-top: 20px;
+
+        padding: 20px 30px;
+        width: 50%;
+      }
+    }
+  }
+
+  .center-right {
+    height: 100% !important;
+    width: 100% !important;
+    padding-left: 0px !important;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    img {
+      height: 100%;
+        width: 60%;
+        position: relative;
+        left: 20%;
+        top: 20%;
+      padding-right: 40px !important;
+    }
+  }
+
+
+}
